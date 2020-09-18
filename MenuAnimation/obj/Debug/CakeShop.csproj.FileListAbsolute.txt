@@ -1,0 +1,167 @@
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\bin\Debug\MenuAnimation.exe.config
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\bin\Debug\MenuAnimation.exe
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\bin\Debug\MenuAnimation.pdb
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\CakeShop.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\App.g.cs
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\MenuAnimation_MarkupCompile.cache
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\MenuAnimation_MarkupCompile.lref
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\App.baml
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\MainWindow.baml
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\MenuAnimation.g.resources
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\MenuAnimation.Properties.Resources.resources
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\CakeShop.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\CakeShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\CakeShop.csproj.CopyComplete
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\MenuAnimation.exe
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\MenuAnimation.pdb
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\UserControlCakes.g.cs
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Downloads\AnimatedMenu1-master\AnimatedMenu1-master\MenuAnimation\obj\Debug\UserControlCakes.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\CakeShop.csprojAssemblyReference.cache
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\MainWindow.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\App.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\MenuAnimation_MarkupCompile.cache
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\MenuAnimation_MarkupCompile.lref
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\MenuAnimation.exe
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\MenuAnimation.pdb
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\MenuAnimation.exe.config
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\MenuAnimation.exe
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\MenuAnimation.pdb
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\LiveCharts.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\LiveCharts.Wpf.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\MaterialDesignColors.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\LiveCharts.pdb
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\LiveCharts.xml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\LiveCharts.Wpf.pdb
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\LiveCharts.Wpf.xml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\App.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\MainWindow.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\MenuAnimation.g.resources
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\MenuAnimation.Properties.Resources.resources
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\CakeShop.csproj.GenerateResource.cache
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\CakeShop.csproj.CoreCompileInputs.cache
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\CakeShop.csproj.CopyComplete
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\UserControlDetailCakes.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\UserControlDetailCakes.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\Aspose.Cells.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\System.IO.Packaging.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\System.IO.Packaging.xml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\UserControlChars.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\UserControlChars.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\SplashScreen.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\SplashScreen.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\Syncfusion.Licensing.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\Syncfusion.SfChart.WPF.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\Syncfusion.SfChart.WPF.xml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\Images\BÁNH BUTTER RAISINS.jpg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\Images\Bánh Chưng.jpg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\Images\Bánh Cosy.jpg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\Images\Bánh Cuộn Trà Xanh.jpg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\Images\BÁNH HAMBURGER.jpg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\Images\BÁNH Mì BRIOCHE.jpg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\Images\Bánh mỳ tươi Staff.jpg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\Images\Bánh Trung Thu.jpg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\Images\Bourbon Chocolate Crunch.png
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\Images\Chocolate Dulche De Leche.png
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\Images\Crown Cake.jpeg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\bin\Debug\Images\Our Night.jpeg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\USHome.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\UserProduct.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\UserProduct.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\USHome.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\CakeShop.csproj.Fody.CopyLocal.cache
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\UserControlAddCakes.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\UserControlAddCakes.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\UserControlUpdate.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\UserControlUpdate.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\UserControlIntroduce.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\UserControlIntroduce.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\CheckoutDetails.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\UserControlOrder.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\UserControlShopping.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\CheckoutDetails.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\UserControlOrder.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\CakeShop app\MenuAnimation\obj\Debug\UserControlShopping.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\Images\BÁNH BUTTER RAISINS.jpg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\Images\Bánh Chưng.jpg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\Images\Bánh Cosy.jpg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\Images\Bánh Cuộn Trà Xanh.jpg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\Images\BÁNH HAMBURGER.jpg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\Images\BÁNH Mì BRIOCHE.jpg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\Images\Bánh mỳ tươi Staff.jpg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\Images\Bánh Trung Thu.jpg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\Images\Bourbon Chocolate Crunch.png
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\Images\Chocolate Dulche De Leche.png
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\Images\Crown Cake.jpeg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\Images\Our Night.jpeg
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\MenuAnimation.exe.config
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\MenuAnimation.exe
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\MenuAnimation.pdb
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\Aspose.Cells.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\LiveCharts.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\LiveCharts.Wpf.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\MaterialDesignColors.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\Syncfusion.Licensing.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\Syncfusion.SfChart.WPF.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\System.IO.Packaging.dll
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\LiveCharts.pdb
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\LiveCharts.xml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\LiveCharts.Wpf.pdb
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\LiveCharts.Wpf.xml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\Syncfusion.SfChart.WPF.xml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\bin\Debug\System.IO.Packaging.xml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\CheckoutDetails.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\MainWindow.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\SplashScreen.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\UserControlAddCakes.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\UserControlChars.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\UserControlDetailCakes.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\UserControlIntroduce.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\UserControlOrder.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\UserControlShopping.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\UserControlUpdate.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\UserProduct.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\USHome.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\App.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\MenuAnimation_MarkupCompile.cache
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\MenuAnimation_MarkupCompile.lref
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\App.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\CheckoutDetails.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\MainWindow.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\SplashScreen.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\UserControlAddCakes.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\UserControlChars.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\UserControlDetailCakes.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\UserControlIntroduce.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\UserControlOrder.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\UserControlShopping.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\UserControlUpdate.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\UserProduct.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\USHome.baml
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\MenuAnimation.g.resources
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\MenuAnimation.Properties.Resources.resources
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\CakeShop.csproj.GenerateResource.cache
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\CakeShop.csproj.CoreCompileInputs.cache
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\CakeShop.csproj.Fody.CopyLocal.cache
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\CakeShop.csproj.CopyComplete
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\MenuAnimation.exe
+E:\Bài tập\BÀI TẬP HIỆN TẠI\LẬP TRINH WIN\Đồ Án 3\18600053-18600124-18600183\Source code\MenuAnimation\obj\Debug\MenuAnimation.pdb
